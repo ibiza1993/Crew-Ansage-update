@@ -1,0 +1,20 @@
+{
+  "stable": {
+    "version": "1.0.0",
+    "channel": "stable",
+    "mandatory": false,
+    "breaking": false,
+    "changelog": "### Neu\n- Charts Dark Mode & flüssige Flugzeugbewegung\n- Update-System (Stabil/Beta)\n\n### Bugs\n- Keine Boarding-Musik bei Parkbremse auf dem Taxiway\n- Phase bleibt Taxiway bei PB nach Abflug\n- Ansagen laufen nach Pushback/Taxi weiter",
+    "download_url": "",
+    "sha256": ""
+  },
+  "beta": {
+    "version": "1.0.0",
+    "channel": "beta",
+    "mandatory": false,
+    "breaking": false,
+    "changelog": "Beta entspricht aktuell Stable 1.0.0",
+    "download_url": "",
+    "sha256": ""
+  }
+}
