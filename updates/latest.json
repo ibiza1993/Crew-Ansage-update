@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.3",
+                   "version":  "1.0.4",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.3\n- Professioneller GUI-Updater (kein CMD-Fenster)\n- Fortschritt: warten, entpacken, installieren, starten",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.3/CrewAnnouncement-1.0.3.zip",
-                   "sha256":  "afe7782349017e00ff8bce3aa7f47f61bcb7aedf5c5afd0f5f345a375fdcaace"
+                   "changelog":  "### 1.0.4\n- GUI-Updater mit A320-Hintergrund\n- Deutlich schneller (robocopy, kein Voll-Backup)\n- Kein CMD-Fenster mehr\n- WinError 32 behoben (App wird vor dem Kopieren beendet)",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.4/CrewAnnouncement-1.0.4.zip",
+                   "sha256":  "bcab9cf660ef99808703b967867608b187e4be7ee36090c396059f5b264a5311"
                },
     "beta":  {
-                 "version":  "1.0.3",
+                 "version":  "1.0.4",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.3",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.3/CrewAnnouncement-1.0.3.zip",
-                 "sha256":  "afe7782349017e00ff8bce3aa7f47f61bcb7aedf5c5afd0f5f345a375fdcaace"
+                 "changelog":  "Beta = Stable 1.0.4",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.4/CrewAnnouncement-1.0.4.zip",
+                 "sha256":  "bcab9cf660ef99808703b967867608b187e4be7ee36090c396059f5b264a5311"
              }
 }
