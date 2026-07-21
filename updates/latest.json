@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.1",
+                   "version":  "1.0.2",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.1\n- Pushback no longer sticks on taxiway (phase switches to Taxiway)\n- Announcement chain continues after Welcome (Arm Doors / Presafety)\n- More stable Engine-ON detection\n- Faster installer (voices stored without re-compression)",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.1/CrewAnnouncement-1.0.1.zip",
-                   "sha256":  "24432eff60f62a86c08bbf2f5c00034c41be091313f336d16adf442939f70f39"
+                   "changelog":  "### 1.0.2\n- Fix Updater: Zyklische Kopie beim Einspielen (robocopy + Staging ausserhalb App-Ordner)",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.2/CrewAnnouncement-1.0.2.zip",
+                   "sha256":  "68500ec34c45a0b64f7f760601b4744efe597345687e90ae277528bcd64014b1"
                },
     "beta":  {
-                 "version":  "1.0.1",
+                 "version":  "1.0.2",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.1",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.1/CrewAnnouncement-1.0.1.zip",
-                 "sha256":  "24432eff60f62a86c08bbf2f5c00034c41be091313f336d16adf442939f70f39"
+                 "changelog":  "Beta = Stable 1.0.2",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.2/CrewAnnouncement-1.0.2.zip",
+                 "sha256":  "68500ec34c45a0b64f7f760601b4744efe597345687e90ae277528bcd64014b1"
              }
 }
