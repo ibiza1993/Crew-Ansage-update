@@ -1,20 +1,20 @@
 {
-  "stable": {
-    "version": "1.0.0",
-    "channel": "stable",
-    "mandatory": false,
-    "breaking": false,
-    "changelog": "### Neu\n- Charts Dark Mode & flüssige Flugzeugbewegung\n- Update-System (Stabil/Beta)\n\n### Bugs\n- Keine Boarding-Musik bei Parkbremse auf dem Taxiway\n- Phase bleibt Taxiway bei PB nach Abflug\n- Ansagen laufen nach Pushback/Taxi weiter",
-    "download_url": "",
-    "sha256": ""
-  },
-  "beta": {
-    "version": "1.0.0",
-    "channel": "beta",
-    "mandatory": false,
-    "breaking": false,
-    "changelog": "Beta entspricht aktuell Stable 1.0.0",
-    "download_url": "",
-    "sha256": ""
-  }
+    "stable":  {
+                   "version":  "1.0.1",
+                   "channel":  "stable",
+                   "mandatory":  false,
+                   "breaking":  false,
+                   "changelog":  "### 1.0.1\n- Pushback no longer sticks on taxiway (phase switches to Taxiway)\n- Announcement chain continues after Welcome (Arm Doors / Presafety)\n- More stable Engine-ON detection\n- Faster installer (voices stored without re-compression)",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.1/CrewAnnouncement-1.0.1.zip",
+                   "sha256":  "24432eff60f62a86c08bbf2f5c00034c41be091313f336d16adf442939f70f39"
+               },
+    "beta":  {
+                 "version":  "1.0.1",
+                 "channel":  "beta",
+                 "mandatory":  false,
+                 "breaking":  false,
+                 "changelog":  "Beta = Stable 1.0.1",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.1/CrewAnnouncement-1.0.1.zip",
+                 "sha256":  "24432eff60f62a86c08bbf2f5c00034c41be091313f336d16adf442939f70f39"
+             }
 }
