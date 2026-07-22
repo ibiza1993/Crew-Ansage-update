@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.11",
+                   "version":  "1.0.12",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.11\n- Fix: Update-Fenster erscheint wieder nach dem Download\n- Updater startet unabhaengig von der Haupt-App (kein geerbtes Qt)\n- Pushback bleibt nicht mehr auf Taxiway haengen\n- Ansagen-Kette nach Welcome laeuft weiter",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.11/CrewAnnouncement-1.0.11.zip",
-                   "sha256":  "f2a22246acf2bbaef9a1e063d243e8c2f9cf555b5e2d0310e7ec171cd1f091b3"
+                   "changelog":  "### 1.0.12\n- Fix: Update-Fenster erscheint wieder nach dem Download\n- Updater startet unabhaengig von der Haupt-App (kein geerbtes Qt)\n- Pushback bleibt nicht mehr auf Taxiway haengen\n- Ansagen-Kette nach Welcome laeuft weiter",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.12/CrewAnnouncement-1.0.12.zip",
+                   "sha256":  "62174acc3d62b1cb2782386222ac787be4bfa2be1586315b4bde55d63cca6155"
                },
     "beta":  {
-                 "version":  "1.0.11",
+                 "version":  "1.0.12",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.11",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.11/CrewAnnouncement-1.0.11.zip",
-                 "sha256":  "f2a22246acf2bbaef9a1e063d243e8c2f9cf555b5e2d0310e7ec171cd1f091b3"
+                 "changelog":  "Beta = Stable 1.0.12",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.12/CrewAnnouncement-1.0.12.zip",
+                 "sha256":  "62174acc3d62b1cb2782386222ac787be4bfa2be1586315b4bde55d63cca6155"
              }
 }
