@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.9",
+                   "version":  "1.0.10",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.9\n- Fix: Update-Fenster erscheint wieder nach dem Download\n- Updater startet unabhaengig von der Haupt-App (kein geerbtes Qt)\n- Pushback bleibt nicht mehr auf Taxiway haengen\n- Ansagen-Kette nach Welcome laeuft weiter",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.9/CrewAnnouncement-1.0.9.zip",
-                   "sha256":  "4fd2000e87519f360396d1d375f11cd123ddf91feeed4431bcc62c1a72761bba"
+                   "changelog":  "### 1.0.10\n- Fix: Update-Fenster erscheint wieder nach dem Download\n- Updater startet unabhaengig von der Haupt-App (kein geerbtes Qt)\n- Pushback bleibt nicht mehr auf Taxiway haengen\n- Ansagen-Kette nach Welcome laeuft weiter",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.10/CrewAnnouncement-1.0.10.zip",
+                   "sha256":  "d2e3c1681cda4cc69a423cebea1c733531f11f17ec8b87de9f60ad49705875f3"
                },
     "beta":  {
-                 "version":  "1.0.9",
+                 "version":  "1.0.10",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.9",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.9/CrewAnnouncement-1.0.9.zip",
-                 "sha256":  "4fd2000e87519f360396d1d375f11cd123ddf91feeed4431bcc62c1a72761bba"
+                 "changelog":  "Beta = Stable 1.0.10",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.10/CrewAnnouncement-1.0.10.zip",
+                 "sha256":  "d2e3c1681cda4cc69a423cebea1c733531f11f17ec8b87de9f60ad49705875f3"
              }
 }
