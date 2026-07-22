@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.6",
+                   "version":  "1.0.7",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.6\n- Fix: Update-Fenster oeffnet nach Download wieder",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.6/CrewAnnouncement-1.0.6.zip",
-                   "sha256":  "227dcc3451611f1da473272eb8acfa7c20d7266d3e7fbcd1337dd407ce3671ac"
+                   "changelog":  "### 1.0.7\n- Fix: Update-Fenster erscheint wieder (Qt-Plugin-Pfade der Haupt-App werden nicht mehr vererbt)",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.7/CrewAnnouncement-1.0.7.zip",
+                   "sha256":  "a3f8a58cf2ed4d763478d644afea8655b5dab6e92f7f38ae8677e0cddbcc6e51"
                },
     "beta":  {
-                 "version":  "1.0.6",
+                 "version":  "1.0.7",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.6",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.6/CrewAnnouncement-1.0.6.zip",
-                 "sha256":  "227dcc3451611f1da473272eb8acfa7c20d7266d3e7fbcd1337dd407ce3671ac"
+                 "changelog":  "Beta = Stable 1.0.7",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.7/CrewAnnouncement-1.0.7.zip",
+                 "sha256":  "a3f8a58cf2ed4d763478d644afea8655b5dab6e92f7f38ae8677e0cddbcc6e51"
              }
 }
