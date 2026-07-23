@@ -1,20 +1,20 @@
 {
     "stable":  {
-                   "version":  "1.0.13",
+                   "version":  "1.0.14",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.13\n- NEU: Reiter Test + Changelog/Locale-Texte werden beim Update wirklich mitgeliefert",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.13/CrewAnnouncement-1.0.13.zip",
-                   "sha256":  "ccec5409da94f5f2f1fc9604911d2349b19f5044933345cd3a1928625493c9e6"
+                   "changelog":  "### 1.0.14\n- Test-Reiter entfernt â€” Update-System stabil",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.14/CrewAnnouncement-1.0.14.zip",
+                   "sha256":  "2750811f73b97e95f1870e2d67860f7f8423ade8a13905e4c5160ee4e587b665"
                },
     "beta":  {
-                 "version":  "1.0.13",
+                 "version":  "1.0.14",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.13",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.13/CrewAnnouncement-1.0.13.zip",
-                 "sha256":  "ccec5409da94f5f2f1fc9604911d2349b19f5044933345cd3a1928625493c9e6"
+                 "changelog":  "Beta = Stable 1.0.14",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.14/CrewAnnouncement-1.0.14.zip",
+                 "sha256":  "2750811f73b97e95f1870e2d67860f7f8423ade8a13905e4c5160ee4e587b665"
              }
 }
