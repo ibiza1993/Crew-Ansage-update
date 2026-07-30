@@ -1,20 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.14",
+                   "version":  "1.0.15",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
-                   "changelog":  "### 1.0.14\n- Test-Reiter entfernt â€” Update-System stabil",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.14/CrewAnnouncement-1.0.14.zip",
-                   "sha256":  "2750811f73b97e95f1870e2d67860f7f8423ade8a13905e4c5160ee4e587b665"
+                   "includes_voices":  false,
+                   "changelog":  "### 1.0.15\n- Website-Login, Live-Presence/Karte (GPS), Callsign aus SimBrief, Online/Offline in Flugvorbereitung",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.15/CrewAnnouncement-1.0.15.zip",
+                   "sha256":  "bb47fa9150bc0d6505c652525919b7e5f20584daa9bd66f7084b232463c0dee3"
                },
     "beta":  {
-                 "version":  "1.0.14",
+                 "version":  "1.0.15",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
-                 "changelog":  "Beta = Stable 1.0.14",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.14/CrewAnnouncement-1.0.14.zip",
-                 "sha256":  "2750811f73b97e95f1870e2d67860f7f8423ade8a13905e4c5160ee4e587b665"
+                 "includes_voices":  false,
+                 "changelog":  "Beta = Stable 1.0.15",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.15/CrewAnnouncement-1.0.15.zip",
+                 "sha256":  "bb47fa9150bc0d6505c652525919b7e5f20584daa9bd66f7084b232463c0dee3"
              }
 }
