@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.15",
+                   "version":  "1.0.16",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.15\n- Website-Login, Live-Presence/Karte (GPS), Callsign aus SimBrief, Online/Offline in Flugvorbereitung",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.15/CrewAnnouncement-1.0.15.zip",
-                   "sha256":  "bb47fa9150bc0d6505c652525919b7e5f20584daa9bd66f7084b232463c0dee3"
+                   "changelog":  "### 1.0.16\n- Airline aus Callsign (z.B. SWR-\u003eSWISS), Fenix-Modell aus SimBrief/Addon, schnellerer Start/Flugvorbereitung",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.16/CrewAnnouncement-1.0.16.zip",
+                   "sha256":  "5631ea4c06ff1b6b85b26ed6f5f0b85577561bbf00962bd05cbd6e08635650cd"
                },
     "beta":  {
-                 "version":  "1.0.15",
+                 "version":  "1.0.16",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.15",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.15/CrewAnnouncement-1.0.15.zip",
-                 "sha256":  "bb47fa9150bc0d6505c652525919b7e5f20584daa9bd66f7084b232463c0dee3"
+                 "changelog":  "Beta = Stable 1.0.16",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.16/CrewAnnouncement-1.0.16.zip",
+                 "sha256":  "5631ea4c06ff1b6b85b26ed6f5f0b85577561bbf00962bd05cbd6e08635650cd"
              }
 }
