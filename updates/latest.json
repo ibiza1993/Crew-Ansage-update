@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.17",
+                   "version":  "1.0.18",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.17\n- Schnellerer Start (Library im Hintergrund, Charts lazy), Presence ohne GPS, Airline LX-\u003eSWISS, Update-Mails",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.17/CrewAnnouncement-1.0.17.zip",
-                   "sha256":  "1dd39a05333adcfadd102648580654178340702cd75a670c22295e633de48a07"
+                   "changelog":  "### 1.0.18\n- Schneller/stabiler: Flugzeug+GPS aus SimConnect-Cache, korrekter Airport am Gate, Airport-Sounds 1h, Online-Schalter mit einem Klick",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.18/CrewAnnouncement-1.0.18.zip",
+                   "sha256":  "4c10815aa3e51124b79009577f5a827948c44f2bd909432c7405778e02f8cd84"
                },
     "beta":  {
-                 "version":  "1.0.17",
+                 "version":  "1.0.18",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.17",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.17/CrewAnnouncement-1.0.17.zip",
-                 "sha256":  "1dd39a05333adcfadd102648580654178340702cd75a670c22295e633de48a07"
+                 "changelog":  "Beta = Stable 1.0.18",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.18/CrewAnnouncement-1.0.18.zip",
+                 "sha256":  "4c10815aa3e51124b79009577f5a827948c44f2bd909432c7405778e02f8cd84"
              }
 }
