@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.20",
+                   "version":  "1.0.21",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.20\n- PSU Cabin-Signs Overlay (Seatbelt/No-Smoking), Multi-Aircraft Quellen, Night-Dim, FSUIPC entfernt (nur SimConnect), Gate/Stand Fix (A4), Performance-Optimierungen",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.20/CrewAnnouncement-1.0.20.zip",
-                   "sha256":  "851836760aff72c6406e6fcc9c6b2d7c829f03a26a2084077126f5b092540db2"
+                   "changelog":  "### 1.0.21\n- Keine Stimmen ohne SimBrief-OFP; Welcome-/Abflug-Wiederholungen gestoppt",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.21/CrewAnnouncement-1.0.21.zip",
+                   "sha256":  "b8a9851437977976a26475368cdda27fd95eff909d0622ad26190e87b3853c52"
                },
     "beta":  {
-                 "version":  "1.0.20",
+                 "version":  "1.0.21",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.20",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.20/CrewAnnouncement-1.0.20.zip",
-                 "sha256":  "851836760aff72c6406e6fcc9c6b2d7c829f03a26a2084077126f5b092540db2"
+                 "changelog":  "Beta = Stable 1.0.21",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.21/CrewAnnouncement-1.0.21.zip",
+                 "sha256":  "b8a9851437977976a26475368cdda27fd95eff909d0622ad26190e87b3853c52"
              }
 }
