@@ -1,22 +1,22 @@
 {
-    "stable": {
-        "version": "1.0.22",
-        "channel": "stable",
-        "mandatory": false,
-        "breaking": false,
-        "includes_voices": false,
-        "changelog": "### 1.0.22\n- Clean single-release channel; Start-Last gedrosselt",
-        "download_url": "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
-        "sha256": "ae6c08ed7237ca43f3a631f43913fd8de01ae2ead0a30d567f8db3c8c6e05df8"
-    },
-    "beta": {
-        "version": "1.0.22",
-        "channel": "beta",
-        "mandatory": false,
-        "breaking": false,
-        "includes_voices": false,
-        "changelog": "Beta = Stable 1.0.22",
-        "download_url": "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
-        "sha256": "ae6c08ed7237ca43f3a631f43913fd8de01ae2ead0a30d567f8db3c8c6e05df8"
-    }
+    "stable":  {
+                   "version":  "1.0.22",
+                   "channel":  "stable",
+                   "mandatory":  false,
+                   "breaking":  false,
+                   "includes_voices":  false,
+                   "changelog":  "### 1.0.22\n- UI-Sidecar (Hintergrund-Last); keine Stimmen ohne SimBrief-OFP; Welcome-Loops gestoppt",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
+                   "sha256":  "ec5d93f9837a6d3b0d556e57b34aa86d27f00ca5b08f0df5727dedad9ac7b61e"
+               },
+    "beta":  {
+                 "version":  "1.0.22",
+                 "channel":  "beta",
+                 "mandatory":  false,
+                 "breaking":  false,
+                 "includes_voices":  false,
+                 "changelog":  "Beta = Stable 1.0.22",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
+                 "sha256":  "ec5d93f9837a6d3b0d556e57b34aa86d27f00ca5b08f0df5727dedad9ac7b61e"
+             }
 }
