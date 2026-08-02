@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.18",
+                   "version":  "1.0.19",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.18\n- Schneller/stabiler: Flugzeug+GPS aus SimConnect-Cache, korrekter Airport am Gate, Airport-Sounds 1h, Online-Schalter mit einem Klick",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.18/CrewAnnouncement-1.0.18.zip",
-                   "sha256":  "4c10815aa3e51124b79009577f5a827948c44f2bd909432c7405778e02f8cd84"
+                   "changelog":  "### 1.0.19\n- Discord Live-Post Schalter in Flugvorbereitung, schnellere Online/Discord-Toggles, ToggleSwitch-Fix (PySide6), Discord-Server DE+EN Kanäle + Live-Flüge Opt-in",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.19/CrewAnnouncement-1.0.19.zip",
+                   "sha256":  "425fa8c6afa9d4826edff9b4629d793f93bcf8366ce71643701da5da3759b33b"
                },
     "beta":  {
-                 "version":  "1.0.18",
+                 "version":  "1.0.19",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.18",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.18/CrewAnnouncement-1.0.18.zip",
-                 "sha256":  "4c10815aa3e51124b79009577f5a827948c44f2bd909432c7405778e02f8cd84"
+                 "changelog":  "Beta = Stable 1.0.19",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.19/CrewAnnouncement-1.0.19.zip",
+                 "sha256":  "425fa8c6afa9d4826edff9b4629d793f93bcf8366ce71643701da5da3759b33b"
              }
 }
