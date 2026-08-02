@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.19",
+                   "version":  "1.0.20",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.19\n- Discord Live-Post Schalter in Flugvorbereitung, schnellere Online/Discord-Toggles, ToggleSwitch-Fix (PySide6), Discord-Server DE+EN Kanäle + Live-Flüge Opt-in",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.19/CrewAnnouncement-1.0.19.zip",
-                   "sha256":  "425fa8c6afa9d4826edff9b4629d793f93bcf8366ce71643701da5da3759b33b"
+                   "changelog":  "### 1.0.20\n- PSU Cabin-Signs Overlay (Seatbelt/No-Smoking), Multi-Aircraft Quellen, Night-Dim, FSUIPC entfernt (nur SimConnect), Gate/Stand Fix (A4), Performance-Optimierungen",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.20/CrewAnnouncement-1.0.20.zip",
+                   "sha256":  "851836760aff72c6406e6fcc9c6b2d7c829f03a26a2084077126f5b092540db2"
                },
     "beta":  {
-                 "version":  "1.0.19",
+                 "version":  "1.0.20",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.19",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.19/CrewAnnouncement-1.0.19.zip",
-                 "sha256":  "425fa8c6afa9d4826edff9b4629d793f93bcf8366ce71643701da5da3759b33b"
+                 "changelog":  "Beta = Stable 1.0.20",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.20/CrewAnnouncement-1.0.20.zip",
+                 "sha256":  "851836760aff72c6406e6fcc9c6b2d7c829f03a26a2084077126f5b092540db2"
              }
 }
