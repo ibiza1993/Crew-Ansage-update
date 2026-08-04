@@ -1,22 +1,22 @@
 {
-    "stable": {
-        "version": "1.0.22",
-        "channel": "stable",
-        "mandatory": false,
-        "breaking": false,
-        "includes_voices": false,
-        "changelog": "### 1.0.22\n- Smart update (ohne Stimmen); Single-Release-Kanal",
-        "download_url": "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
-        "sha256": "ec5d93f9837a6d3b0d556e57b34aa86d27f00ca5b08f0df5727dedad9ac7b61e"
-    },
-    "beta": {
-        "version": "1.0.22",
-        "channel": "beta",
-        "mandatory": false,
-        "breaking": false,
-        "includes_voices": false,
-        "changelog": "Beta = Stable 1.0.22",
-        "download_url": "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.22/CrewAnnouncement-1.0.22.zip",
-        "sha256": "ec5d93f9837a6d3b0d556e57b34aa86d27f00ca5b08f0df5727dedad9ac7b61e"
-    }
+    "stable":  {
+                   "version":  "1.0.23",
+                   "channel":  "stable",
+                   "mandatory":  false,
+                   "breaking":  false,
+                   "includes_voices":  false,
+                   "changelog":  "### 1.0.23\n- PSU Seatbelt/No-Smoking stabil: kein Chime-Loop, ON/OFF-Ansage mit Interrupt, SimBrief-Formular schneller",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.23/CrewAnnouncement-1.0.23.zip",
+                   "sha256":  "f1d53ea2a4409ca1a81e1187c4727e1969436526652efa9c4e661b7f0e4c9f37"
+               },
+    "beta":  {
+                 "version":  "1.0.23",
+                 "channel":  "beta",
+                 "mandatory":  false,
+                 "breaking":  false,
+                 "includes_voices":  false,
+                 "changelog":  "Beta = Stable 1.0.23",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.23/CrewAnnouncement-1.0.23.zip",
+                 "sha256":  "f1d53ea2a4409ca1a81e1187c4727e1969436526652efa9c4e661b7f0e4c9f37"
+             }
 }
