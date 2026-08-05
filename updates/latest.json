@@ -1,22 +1,22 @@
 {
     "stable":  {
-                   "version":  "1.0.23",
+                   "version":  "1.0.24",
                    "channel":  "stable",
                    "mandatory":  false,
                    "breaking":  false,
                    "includes_voices":  false,
-                   "changelog":  "### 1.0.23\n- PSU Seatbelt/No-Smoking stabil: kein Chime-Loop, ON/OFF-Ansage mit Interrupt, SimBrief-Formular schneller",
-                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.23/CrewAnnouncement-1.0.23.zip",
-                   "sha256":  "f1d53ea2a4409ca1a81e1187c4727e1969436526652efa9c4e661b7f0e4c9f37"
+                   "changelog":  "### 1.0.24\n- Cabin-Status-Overlay (Doors/Beacon/Park/Phase), ACP-CAB-Lautstärke 1:1 ohne Ruckler, PSU No-Smoking stabil, Autostart Windows/MSFS",
+                   "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.24/CrewAnnouncement-1.0.24.zip",
+                   "sha256":  "271ebef64a297a499aafc7fd6e58f454fca6137d3b76f6b55d671791eaf0d59a"
                },
     "beta":  {
-                 "version":  "1.0.23",
+                 "version":  "1.0.24",
                  "channel":  "beta",
                  "mandatory":  false,
                  "breaking":  false,
                  "includes_voices":  false,
-                 "changelog":  "Beta = Stable 1.0.23",
-                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.23/CrewAnnouncement-1.0.23.zip",
-                 "sha256":  "f1d53ea2a4409ca1a81e1187c4727e1969436526652efa9c4e661b7f0e4c9f37"
+                 "changelog":  "Beta = Stable 1.0.24",
+                 "download_url":  "https://github.com/ibiza1993/Crew-Ansage-update/releases/download/v1.0.24/CrewAnnouncement-1.0.24.zip",
+                 "sha256":  "271ebef64a297a499aafc7fd6e58f454fca6137d3b76f6b55d671791eaf0d59a"
              }
 }
